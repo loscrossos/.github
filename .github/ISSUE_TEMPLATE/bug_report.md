@@ -3,8 +3,7 @@ name: Bug report
 about: Thanks for submiting an issue. read carefully the requirements for your issue
   to be efficiently adressed
 title: ''
-labels: bug, documentation, duplicate, enhancement, help wanted, invalid, question,
-  wontfix
+labels: bug
 assignees: ''
 
 ---
@@ -31,6 +30,6 @@ Include the full output of the project app with the command `--sysreport`. e.g. 
 python appzonos.py --sysreport
 ```
 as well as any additional info that is not there: Browser [e.g. chrome, safari]
-
+Feel free to anonymize any personal info that the report might contain (user names, etc)
 
 **Error log (paste the console output with the error):**
